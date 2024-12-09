@@ -1,16 +1,16 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
-import BigImg from "../assets/Collection Page Images/18_098.jpg";
-import Img1 from "../assets/Collection Page Images/ClassicSwim.webp";
-import Img2 from "../assets/Collection Page Images/Wild-Steve-NoirLite-HiddenFace_3.webp";
-import Img3 from "../assets/Collection Page Images/ShopRunSmall_800x.webp";
-import Img4 from "../assets/Collection Page Images/WarmSteve-NoirLite-HiddenFace_2.webp";
+import BigImg from "../assets/Collection Page Images/Activewear-Collection-Mob.png";
+import Img1 from "../assets/Collection Page Images/JupterSilverLake_800x.webp";
+import Img2 from "../assets/Collection Page Images/TrackPantsNoirSilk3_ee904291-f9dc-4829-b364-0418cc922b43.webp";
+import Img3 from "../assets/Collection Page Images/WarmSteve-NoirLite-HiddenFace_2.webp";
+import Img4 from "../assets/Collection Page Images/ShopCargoSMall_800x.webp";
 
 // Hover images
-import HoverImg1 from "../assets/Collection Page Images/NSNoirLiteSmall_800x.webp";
-import HoverImg2 from "../assets/Collection Page Images/Wild-Steve-NoirLite-HiddenFace_1.webp";
-import HoverImg3 from "../assets/Collection Page Images/RSBlackSmall_800x.webp";
-import HoverImg4 from "../assets/Collection Page Images/WRSNOIRSMALL_800x.webp";
+import HoverImg1 from "../assets/Collection Page Images/ShopBomberSmall_800x.webp";
+import HoverImg2 from "../assets/Collection Page Images/CSNOIRSILKSMALL_800x.webp";
+import HoverImg3 from "../assets/Collection Page Images/WRSNOIRSMALL_800x (1).webp";
+import HoverImg4 from "../assets/Collection Page Images/ESKLYVERDSMALL_800x.webp";
 
 const ShopSilhouette2 = () => {
   const gridImages = [
@@ -21,10 +21,8 @@ const ShopSilhouette2 = () => {
   ];
 
   return (
-    <div className="my-16">
-      <div className="text-center mb-6">
-        <h2 className="text-5xl font-bold text-black pb-16">Shop the Silhouette</h2>
-      </div>
+    <div className="my-10">
+
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 p-5">
         {/* Left Section - Big Image */}
         <div className="relative">

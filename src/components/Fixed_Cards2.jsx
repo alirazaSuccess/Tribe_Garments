@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
-import Img1 from "../assets/Collection Page Images/YES/Swim1.png";
-import Img2 from "../assets/Collection Page Images/YES/Mercury-Actuvewear1.png";
-import Img3 from "../assets/Collection Page Images/YES/Mobile/Running-Shorts-Mob.png";
+import Img1 from "../assets/Collection Page Images/YES/Screenshot 2023-11-05 at 10.09.15.png";
+import Img2 from "../assets/Collection Page Images/YES/SLEEVELESS TEE.png";
+import Img3 from "../assets/Collection Page Images/YES/Cargo-Pants11.png";
 
 const Fixed_Card2 = () => {
  const cards = [

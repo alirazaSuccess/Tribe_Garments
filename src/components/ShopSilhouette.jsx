@@ -10,7 +10,7 @@ import Img4 from "../assets/Collection Page Images/WarmSteve-NoirLite-HiddenFace
 import HoverImg1 from "../assets/Collection Page Images/NSNoirLiteSmall_800x.webp";
 import HoverImg2 from "../assets/Collection Page Images/Wild-Steve-NoirLite-HiddenFace_1.webp";
 import HoverImg3 from "../assets/Collection Page Images/RSBlackSmall_800x.webp";
-import HoverImg4 from "../assets/Collection Page Images/WRSNOIRSMALL_800x.webp";
+import HoverImg4 from "../assets/Collection Page Images/WRSNOIRSMALL_800x (1).webp";
 
 const ShopSilhouette = () => {
   const gridImages = [
